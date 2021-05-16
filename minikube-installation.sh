@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# yes | source filename.sh
-
 check_user(){
 
     if [ "$(whoami)" == "root" ]
